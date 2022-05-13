@@ -37,6 +37,7 @@ a {
   &:hover {
     font-weight: 600;
     color:white;
+    text-decoration: none!important;
   }
 }
 
@@ -319,8 +320,8 @@ ul.list {
   list-style-type: none;
   margin: 0;
   padding:0;
-
-  li {
+ 
+  li{
     padding: 0.2rem 0;
   }
 }
